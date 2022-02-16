@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917376385195",
+    "project_id": "techtape-87e98",
+    "storage_bucket": "techtape-87e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917376385195:android:fd2c2b48abf9373c6737ee",
+        "android_client_info": {
+          "package_name": "com.dhakaiyacoder.techtape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917376385195-pkjp2h1etnq6eidugv8tvj0250dn16jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhakaiyacoder.techtape",
+            "certificate_hash": "8d786a37707e801502eeb0b7c53fefc6040a078b"
+          }
+        },
+        {
+          "client_id": "917376385195-n7ldmk5us5aqvea5e9pc8kn3j4a3p4t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJeyAFRL7cQUrjKaZ6Rs_6WYWipvv1E6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917376385195-n7ldmk5us5aqvea5e9pc8kn3j4a3p4t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
